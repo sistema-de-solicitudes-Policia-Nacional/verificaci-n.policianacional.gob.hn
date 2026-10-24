@@ -1,7 +1,7 @@
 const documento = {
-  nombre: "ALISON ANDREA ESCOTO FLORES",
-  identificacion: "0801-1998-16255",
-  fecha: "2026-10-11 13:43:39",
-  codigo: "7731-0801199816255-402486",
+  nombre: "ABNER ISAI MALDONADO MARTINEZ",
+  identificacion: "0801-2000-15942",
+  fecha: "2026-10-07 13:43:39",
+  codigo: "7836-0801200015942-402487",
   imagen: "documentos/constancia.jpg"
 };
